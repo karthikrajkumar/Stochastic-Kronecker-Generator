@@ -1,3 +1,7 @@
+This is the implementation for 
+https://www.youtube.com/watch?v=erMiEFGRsIk&list=PL-Y8zK4dwCrQyASidb2mjj_itW2-YYx6-&index=2
+
+
 Stochastic-Kronecker-Generator
 ==============================
 
